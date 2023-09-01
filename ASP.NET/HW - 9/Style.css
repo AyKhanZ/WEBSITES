@@ -1,0 +1,348 @@
+/* level - 1 */
+.div-up{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.Up-ul-items{
+    font-size: 16px;
+    color:#8e95af;
+    list-style-type: none;
+    width: 220px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.p-destek{
+    margin-left: 120px;
+    width: 50px;
+    font-size: 16px;
+    color:black;
+}
+.num-items{
+    width: 210px;
+    font-size: 16px;
+    color:black;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 0; margin: 0;
+}
+.yardim{
+    font-size: 16px;
+    color:#8e95af;
+    width: 60px;
+    align-items: center;
+    margin-left: 30px;
+}
+.ru{
+    font-size: 16px;
+    color:#8e95af;
+    width: 40px;
+    align-items: center;
+    margin-left: 10px;
+}
+.secimler{
+    font-size: 16px;
+    color:#8e95af;
+    width: 70px;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.giris{
+    font-size: 16px;
+    color:#8e95af;
+    width: 70px;
+    align-items: center;
+    margin-left: 10px;
+}
+
+
+
+/* level - 2 */
+.Btn-corner {
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    color:white; background: #7fd41b; border-color: #7fd41b;
+    width: 100px; height: 35px;
+    margin-right: 180px;
+    margin-left: 25px;
+    padding: 0;
+}
+.ul-items{
+    font-size: 16px;
+    color:white;
+    list-style-type: none;
+    width: 430px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-right: 210px;
+}
+.h4-turbo-az{
+    margin-left: 180px;
+}
+navbar{
+    color:white;
+    height: 60px;
+    background: #cb070e;
+    display: flex;
+    align-items: center
+}
+
+
+
+/* level - 3 */
+.div-middle{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.ComboBox-Middle{
+    margin-top: 40px;
+    padding-left: 10px;
+    border: none;
+    width: 190px; height: 40px;
+    color: #8e95af;
+    font-size: 16px; /* изменяем размер шрифта */
+}
+.ComboBox-Marka option {
+    font-size: 14px;
+}
+.ComboBox-Marka:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+input[type="radio"] {
+    display: none;
+    padding: 0;
+}
+.label-Left {
+    margin-top: 40px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 90px; height: 40px;
+    background-color: white;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+
+    text-align: center;
+    padding: 0;
+    font-size: 16px;
+    color: #8e95af;
+}
+.label-Middle {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 90px; height: 40px;
+    background-color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    text-align: center;
+    padding: 0;
+    font-size: 16px;
+    color: #8e95af;
+}
+.label-Right {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 90px; height: 40px;
+    background-color: white;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+
+    text-align: center;
+    padding: 0;
+    font-size: 16px;
+    color: #8e95af;
+}
+input[type="radio"]:checked+label,
+.Checked+label {
+    background: #cb070e;
+    color: white;
+}
+input {
+    display: block;
+}
+
+
+
+/* level - 4 */
+.qiymet-left-input{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 100px; height: 40px;
+    background-color: white;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-left: 10px;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+    color: #8e95af;
+}
+.qiymet-right-input{
+    margin-top: 80px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 100px; height: 40px;
+    background-color: white;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    padding-left: 10px;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+    color: #8e95af;
+}
+.ComboBox-valuta{
+    margin-top: 80px;
+    padding-left: 10px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: Black;
+    font-size: 14px; /* изменяем размер шрифта */
+    border-radius: 10%;
+}
+.input-Kredit{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 80px; height: 40px;
+    background-color: white;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+    color: #8e95af;
+}
+input[type=checkbox] {
+    visibility: hidden;
+}
+.checkbox-example label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 80px; height: 40px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 65px; margin-left: 10px;
+
+    text-align: center;
+    padding: 0;
+    font-size: 14px;
+    color: Black;
+}
+.checkbox-example input[type=checkbox]:checked + label {
+    background: pink;
+    color: red;
+}
+.Select-Ban{
+    margin-top: 80px; margin-left: 10px;
+    padding-left: 10px;
+    border: none;
+    width: 170px;
+    height: 40px;
+    color: #8e95af;
+    font-size: 14px; /* изменяем размер шрифта */
+    border-radius: 5px;
+}
+.Select-il-min{
+    margin-top: 80px; margin-left: 10px;
+    padding-left: 10px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: #8e95af;
+    font-size: 14px; /* изменяем размер шрифта */
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.Select-il-max{
+    margin-top: 80px; margin-left: 5px;
+    padding-left: 10px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: #8e95af;
+    font-size: 14px; /* изменяем размер шрифта */
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+}
+
+
+
+/* level - 5 */
+.p-bu-gun{
+    margin-top: 110px;
+    font-size: 16px;
+    color: Black;
+}
+
+
+
+body{
+    margin: 0;
+}
+
+.a-elanlar{
+     text-decoration: none;
+     color: Blue;
+    margin-top: 95px;
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.a-sifirla{
+     text-decoration: none;
+     color: red;
+    margin-top: 95px;
+    margin-left: 375px;
+    font-size: 16px;
+}
+.a-daha-elanlar{
+     text-decoration: none;
+     color: red;
+    width: 120px;
+    margin-top: 95px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+.btn-elanlari-goster{
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    color:white; background: #cb070e; border-color: #cb070e;
+    width: 200px; height: 40px;
+    margin-left: 10px;
+    margin-top: 95px;
+    padding: 0;
+}

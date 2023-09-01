@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Turbo.az</title>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <!--
+    link - это тег для опдключения внешних файлов
+    rel - relative (отношение)
+    href - путь к файлу
+    -->
+    <link rel="stylesheet" href="./Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+<div style="background: #eceef3; height: 40px">
+    <div class="div-up">
+        <ul class="Up-ul-items">
+            <li>Tap.az</li>
+            <li>Bina.az</li>
+            <li>Boss.az</li>
+        </ul>
+
+        <p class="p-destek">Destek:</p>
+        <ul class="num-items">
+            <li>(012)599-08-01</li>
+            <li>(012)505-77-55</li>
+        </ul>
+
+        <p class="yardim">Yardim</p>
+        <p class="ru">RU</p>
+
+
+        <i class="fa-solid fa-heart-circle-plus fa-beat fa-2xs" style="color: #8e95af;"></i>
+        <p class="secimler">Secimler</p>
+
+
+        <i class="fa-solid fa-user fa-beat fa-2xs" style="color: #8e95af;"></i>
+        <p class="giris">Giris</p>
+
+    </div>
+</div>
+<navbar>
+    <h4 class="h4-turbo-az">TURBO.AZ</h4>
+    <ul class="ul-items">
+        <li>Butun elanlar</li>
+        <li>Avtosalonlar</li>
+        <li>Ehtiyet hisseler ve aksesuarlar</li>
+    </ul>
+    <button class="Btn-corner" type="button">+ Yeni elan</button>
+
+</navbar>
+<div style="background: #eceef3; height: 180px;">
+    <div class="div-middle">
+        <select class="ComboBox-Middle">
+            <option hidden>Marka</option>
+            <option value="option1">Audi</option>
+            <option value="option2">Avia</option>
+            <option value="option3">BMW</option>
+            <option value="option3">Kia</option>
+            <option value="option3">Kuba</option>
+            <option value="option3">Lexus</option>
+        </select>
+
+        <select class="ComboBox-Middle" style="margin-left: 20px">
+            <option hidden>Model</option>
+            <option value="option1">option 1</option>
+            <option value="option2">option 2</option>
+            <option value="option3">option 3</option>
+        </select>
+
+
+        <input type="radio" id="a1" name="amount" checked="checked"/>
+        <label class="label-Left" for="a1">Hamisi</label>
+
+        <input type="radio" id="a2" name="amount" />
+        <label class="label-Middle" for="a2">Yeni</label>
+
+        <input type="radio" id="a3" name="amount"/>
+        <label class="label-Right" for="a3">Surulmus</label>
+
+
+        <select class="ComboBox-Middle" style="margin-left: 20px">
+            <option hidden>Seher</option>
+            <option value="option2">Agdam</option>
+            <option value="option3">Agdas</option>
+            <option value="option1">Baki</option>
+            <option value="option3">Babek</option>
+            <option value="option3">Berde</option>
+            <option value="option3">Qax</option>
+            <option value="option3">Qazax</option>
+            <option value="option3">Qebele</option>
+        </select>
+    </div>
+    <div class="div-middle">
+        <input class="qiymet-left-input" type="text" placeholder="Qiymet,min" maxlength="10"/>
+        <input class="qiymet-right-input" type="text" placeholder="maks" maxlength="10"/>
+
+        <select class="ComboBox-valuta" style="margin-left: 10px">
+            <option hidden>AZN</option>
+            <option value="option1">AZN</option>
+            <option value="option2">USD</option>
+            <option value="option3">RUB</option>
+            <option value="option3">TL</option>
+        </select>
+
+        <div class="checkbox-example" >
+            <input type="checkbox" value="1" id="checkboxOneInput" />
+            <label for="checkboxOneInput">Kredit</label>
+        </div>
+        <div class="checkbox-example" >
+            <input type="checkbox" value="1" id="checkboxOneInput2" />
+            <label for="checkboxOneInput2">Barter</label>
+        </div>
+
+        <select class="Select-Ban">
+            <option hidden>Ban novu</option>
+            <option>Sifirla   -  ❌</option>
+            <option>Avtobus</option>
+            <option>Dartqi</option>
+            <option>Furgon</option>
+            <option>Minivan</option>
+            <option>Moped</option>
+            <option>Pikap</option>
+            <option>Van</option>
+        </select>
+
+
+        <select class="Select-il-min">
+            <option hidden>Il,min.</option>
+            <option>Sifirla   -  ❌</option>
+            <option>2023</option>
+            <option>2022</option>
+            <option>2021</option>
+            <option>2020</option>
+            <option>2019</option>
+            <option>2018</option>
+            <option>2017</option>
+            <option>2016</option>
+            <option>2015</option>
+            <option>2014</option>
+            <option>2013</option>
+            <option>2012</option>
+            <option>2011</option>
+            <option>2010</option>
+            <option>2009</option>
+            <option>2008</option>
+            <option>2007</option>
+            <option>2006</option>
+            <option>2005</option>
+            <option>2004</option>
+            <option>2003</option>
+            <option>2002</option>
+            <option>2001</option>
+            <option>2000</option>
+        </select>
+        <select class="Select-il-max">
+            <option hidden>Maks</option>
+            <option>Sifirla   -  ❌</option>
+            <option>2023</option>
+            <option>2022</option>
+            <option>2021</option>
+            <option>2020</option>
+            <option>2019</option>
+            <option>2018</option>
+            <option>2017</option>
+            <option>2016</option>
+            <option>2015</option>
+            <option>2014</option>
+            <option>2013</option>
+            <option>2012</option>
+            <option>2011</option>
+            <option>2010</option>
+            <option>2009</option>
+            <option>2008</option>
+            <option>2007</option>
+            <option>2006</option>
+            <option>2005</option>
+            <option>2004</option>
+            <option>2003</option>
+            <option>2002</option>
+            <option>2001</option>
+            <option>2000</option>
+        </select>
+    </div>
+    <div class="div-middle">
+        <p class="p-bu-gun">Bu gun:</p>
+        <a class="a-elanlar" href="#">yeni elanlar</a>
+        <a class="a-sifirla" href="#">Sifirla</a>
+        <a class="a-daha-elanlar" href="#">Daha cox filtr</a>
+
+        <button class="btn-elanlari-goster" type="button">Elanlari goster</button>
+    </div>
+</div>
+</body>
+</html>
