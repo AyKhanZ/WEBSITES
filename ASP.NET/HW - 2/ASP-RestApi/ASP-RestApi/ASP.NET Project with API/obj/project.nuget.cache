@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "24zQaf7LL7kyX7WVzQDNE4OLJMdykCm5UYAXLYTEZ1usxRaRoyMqKjg4Di57oHYn2y0MzciyxqybRxD0tdZc6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Homework\\ASP.NET Project with API\\ASP.NET Project with API\\ASP.NET Project with API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

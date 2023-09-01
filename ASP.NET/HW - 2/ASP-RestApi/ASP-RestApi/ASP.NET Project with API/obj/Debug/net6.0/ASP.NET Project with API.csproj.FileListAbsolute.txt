@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\ASP.NET Project with API.staticwebassets.runtime.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\ASP.NET Project with API.exe
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\ASP.NET Project with API.deps.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\ASP.NET Project with API.runtimeconfig.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\ASP.NET Project with API.dll
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\ASP.NET Project with API.pdb
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Project with API.styles.css
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET Project with API.bundle.scp.css
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.csproj.CopyComplete
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.dll
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\refint\ASP.NET Project with API.dll
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.pdb
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ASP.NET Project with API.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\ASP.NET Project with API\ASP.NET Project with API\obj\Debug\net6.0\ref\ASP.NET Project with API.dll
