@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "sAsVZ8sHZ/ErmYlod0sgS83Jq1Z1qmxNOQT14gwjTak=",
+  "Source": "MinimalAPI",
+  "BasePath": "_content/MinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinimalAPI\\wwwroot",
+      "Source": "MinimalAPI",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP-MinimalAPI\\ASP-MinimalAPI\\MinimalAPI\\wwwroot\\",
+      "BasePath": "_content/MinimalAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP-MinimalAPI\\ASP-MinimalAPI\\MinimalAPI\\wwwroot\\css\\minimalAPIstyle.css",
+      "SourceId": "MinimalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP-MinimalAPI\\ASP-MinimalAPI\\MinimalAPI\\wwwroot\\",
+      "BasePath": "_content/MinimalAPI",
+      "RelativePath": "css/minimalAPIstyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\minimalAPIstyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\ASP-MinimalAPI\\ASP-MinimalAPI\\MinimalAPI\\wwwroot\\index.html",
+      "SourceId": "MinimalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\ASP-MinimalAPI\\ASP-MinimalAPI\\MinimalAPI\\wwwroot\\",
+      "BasePath": "_content/MinimalAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
