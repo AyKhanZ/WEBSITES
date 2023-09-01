@@ -1,0 +1,87 @@
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\MyConverter.staticwebassets.runtime.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\MyConverter.exe
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\MyConverter.deps.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\MyConverter.runtimeconfig.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\bin\Debug\net6.0\MyConverter.pdb
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\scopedcss\bundle\MyConverter.styles.css
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\scopedcss\projectbundle\MyConverter.bundle.scp.css
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\refint\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.pdb
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\MyConverter.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyConverter\MyConverter\obj\Debug\net6.0\ref\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\MyConverter.staticwebassets.runtime.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\MyConverter.exe
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\MyConverter.deps.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\MyConverter.runtimeconfig.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\bin\Debug\net6.0\MyConverter.pdb
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\scopedcss\bundle\MyConverter.styles.css
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\scopedcss\projectbundle\MyConverter.bundle.scp.css
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\refint\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.pdb
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\MyConverter.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\ref\MyConverter.dll
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.MyConverter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.build.MyConverter.props
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyConverter.props
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyConverter.props
+C:\Users\Lenovo\Homework\ASP.NET projects\MyNewConverter\MyConverter\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\appsettings.Development.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\appsettings.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\MyConverter.staticwebassets.runtime.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\MyConverter.exe
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\MyConverter.deps.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\MyConverter.runtimeconfig.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\MyConverter.dll
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\bin\Debug\net6.0\MyConverter.pdb
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.AssemblyInfoInputs.cache
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.AssemblyInfo.cs
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.csproj.CoreCompileInputs.cache
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.RazorAssemblyInfo.cache
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.RazorAssemblyInfo.cs
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.MyConverter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.build.MyConverter.props
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyConverter.props
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyConverter.props
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets.build.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\staticwebassets.development.json
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\scopedcss\bundle\MyConverter.styles.css
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\scopedcss\projectbundle\MyConverter.bundle.scp.css
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.dll
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\refint\MyConverter.dll
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.pdb
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\MyConverter.genruntimeconfig.cache
+D:\Github\WEB\ASP.NET\HW - 3\ASP-ConverterAspTagsAndValidation\MyConverter\obj\Debug\net6.0\ref\MyConverter.dll
