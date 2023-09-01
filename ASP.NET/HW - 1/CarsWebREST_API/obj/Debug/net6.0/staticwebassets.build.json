@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mHxZFAvPAIHkY1wuiByC34ikk1vB0pgeotdRKa7lpFk=",
+  "Source": "CarsWebREST_API",
+  "BasePath": "_content/CarsWebREST_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

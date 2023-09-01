@@ -1,0 +1,31 @@
+Надо таблицы для базы данных Turbo.az
+
+Таблицы: 
+Cars, Showrooms, BodyTypes, Cities, Colors, WheelDriveTypes, FuelType, TranspissionTypes
+
+Cars:
+Make(nvarchar),
+Model(nvarchar), 
+ShowRoomId(reference),
+Year(data),
+VIN(кузов номера nvarchar),
+BodyType(reference to bodies),
+Mileage(int), 
+City(reference),
+Color(reference),
+EngineVolume(int),
+WheelDriveType(reference), 
+FuelType(reference),
+TransmissionType(reference),
+HorsePower(int),
+PassengerCount(int)
+Price(int),
+PhoneNumber
+
+Showrooms:
+Name,
+Address,
+PhoneNumber
+
+
+
